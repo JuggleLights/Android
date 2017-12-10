@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="juggle_device_keys">
+        <item></item>
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>G</item>
+    </string-array>
+</resources>
